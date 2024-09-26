@@ -8,5 +8,3 @@
 44.229.200.200
 
 https://ppi-portfolio-24-1.onrender.com
-
-https://ppi-portfolio-24.onrender.com
